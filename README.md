@@ -25,6 +25,6 @@ class Device
    public  double  getCurrentLongitude();
    public  boolean getIncident();
    public  void    setMaxStationaryTime(int x);
-   private void   raiseIncident();   
+   private void    raiseIncident();   
 }
 ```
